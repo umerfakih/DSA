@@ -5,7 +5,7 @@ public class LeetCode852 {
 
     }
 
-    static int peakIndexMountainArray(int[] arr ,int target){
+    static int peakIndexMountainArray(int[] arr){
         int start = 0;
         int end = arr.length -1;
 
